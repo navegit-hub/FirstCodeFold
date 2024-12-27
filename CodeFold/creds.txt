@@ -1,2 +1,0 @@
-usr = nav
-pass = 23r j
