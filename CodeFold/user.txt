@@ -1,3 +1,5 @@
 login and logout
 user admin
 provide access 
+adding qr code
+adding calculator
