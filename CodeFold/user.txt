@@ -1,3 +1,2 @@
 login and logout
 qr code scanner
-adding gym
