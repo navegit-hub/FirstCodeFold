@@ -1,2 +1,3 @@
 login and logout
 user admin
+provide access
