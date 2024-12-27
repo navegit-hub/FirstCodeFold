@@ -1,3 +1,3 @@
 login and logout
-user admin
-provide access
+qr code scanner
+adding gym
