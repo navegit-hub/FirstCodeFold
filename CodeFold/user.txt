@@ -1,3 +1,5 @@
 login and logout
 qr code scanner
 optimising user scrolling in app
+adding calculator
+adding userInteraction & steps
