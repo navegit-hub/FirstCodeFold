@@ -1,1 +1,2 @@
 login and logout
+user admin
